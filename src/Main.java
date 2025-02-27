@@ -10,5 +10,11 @@ public class Main {
         final String empresa2 = "Hola mundo LL"; // Este es constante, ya no se puede actualizar más adelante.
 //        empresa2 = "Hola mundo ll"; // Esto arrojaría un error.
         System.out.println(empresa2);
+        /**  Doble asterisco y poner enter para que intellij nos ayude. Estrictamente solo va un asterico aquí.
+         * Comentario de varias lineaass
+         * adfsf
+         * sss
+         * Good !
+         */
     }
 }
